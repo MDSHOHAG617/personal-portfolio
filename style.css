@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
+h1{
+    font-size: 50px;
+    line-height: 80px;
+
+}
+
+
+
+.div-1{
+    display: flex;
+    margin-left: 5%;
+    padding: 20px 30px;
+    margin-bottom: 80px;
+
+}
+
+.dis-half{
+    width: 50%;
+}
+
+
+span{
+    color: #ffa500;
+}
+
+.div-12 img{
+    width:80%;
+    border-radius: ;
+}
+
+.dis-half{
+    width: 50%;
+}
+
+.hire-btn{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.exp-1{
+    display: flex;
+}
+
+.box{
+    box-shadow: 5px 7px 40px gray;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 30px;
+    border-radius: ;
+    border-left:8px solid rgb(18, 83, 158);
+    border-image: 
+}
+
+.exp-1{
+    
+   margin-bottom: 100px;
+
+}
+footer{
+    text-align: center;
+    margin-top: 200px;
+}
